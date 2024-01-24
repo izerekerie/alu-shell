@@ -1,3 +1,4 @@
 #!/bin/bash
+pwd
 home_directory=$HOME
 cd $home_directory
